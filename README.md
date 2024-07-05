@@ -1,6 +1,6 @@
 ## Hi there 👋   
 
-Learn more about me @ [fr1sk.dev](https://fr1sk.dev)
+Learn more about me @ [fr1sk.dev](https://fr1sk.dev) 👾
 
 <!--
 ![Github stats](https://github-readme-stats.vercel.app/api?username=fr1sk&show_icons=true&count_private=true&title_color=bd93f9&text_color=8BE9FD&bg_color=282A36&icon_color=ff79c6)
